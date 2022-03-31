@@ -3,7 +3,10 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  accountName: "olympusstoragedev",
+  containerName: "test",
+  key: "2jIpp0i6wxvJ4GJFNKAz8+4QsOMXbzx5qfzmeD5F6FAiDvn9VqDDbaijRZxzJrF93GIhO4if3xw/0XUeV9OFxQ=="
 };
 
 /*
